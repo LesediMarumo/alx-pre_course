@@ -1,2 +1,1 @@
-My first readme
-Something
+Living the coding life
